@@ -1,0 +1,31 @@
+{
+    "employees":[
+       {
+           "firstName": "Amanda",
+           "lastName": "Johnson",
+           "birthday": {
+               "day":"12",
+               "month":"01",
+               "year":"1968"
+            }
+       },
+       {
+           "firstName": "Kit",
+           "lastName": "Harris",
+           "birthday": {
+               "day":"05",
+               "month":"08",
+               "year":"1984"
+            }	
+       },
+       {
+           "firstName": "Grey",
+           "lastName": "Davis",
+           "birthday": {
+               "day":"18",
+               "month":"06",
+               "year":"1999"
+            }	
+       }
+    ]   
+}   
