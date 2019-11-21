@@ -1,5 +1,4 @@
-{
-    "employees":[
+[
        {
            "firstName": "Amanda",
            "lastName": "Johnson",
@@ -27,5 +26,4 @@
                "year":"1999"
             }	
        }
-    ]   
-}   
+    ] 
