@@ -12,7 +12,7 @@ Status Code: 204
 ***
 2) Create JSON-file that contains information about employees.
 
-JSON-file you can find in this repositiry.
+JSON-file you can find in this repositiry: https://github.com/nadezhdaS/qa-test-task/blob/master/employees.json
 ***
 3) Write SQL statement. Select subscribers with subscriptions from Omaha
 
